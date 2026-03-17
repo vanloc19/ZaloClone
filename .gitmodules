@@ -1,6 +1,3 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:vanloc19/Backend-ZaloClone.git
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:vanloc19/Frontend-ZaloClone.git
